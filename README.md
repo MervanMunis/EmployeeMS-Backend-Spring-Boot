@@ -1,4 +1,4 @@
-# <div align="center">Employee Backend Spring Boot3 Project</div>
+# <div align="center">Employee Spring Boot3 Backend Project</div>
 
 Welcome to the EmployeeMS Backend, a Spring Boot 3 application designed for efficient Employee and Department management.
 
