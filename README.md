@@ -2,6 +2,8 @@
 
 Welcome to the EmployeeMS Backend, a Spring Boot 3 application designed for efficient Employee and Department management.
 
+In the process of developing this project, I utilized Maven as the build automation tool. To procure the essential dependencies, I employed the [Spring Initializer](https://start.spring.io/), leveraging its capability to systematically generate the required components.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [API Overview](#api-overview)
