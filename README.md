@@ -39,6 +39,8 @@ RESTful API (Representational State Transfer) is an architectural style that use
 
 ## Architecture
 
+![Architecture Diagram](https://github.com/MervanMunis/EmployeeMS-Backend-Spring-Boot/raw/master/Spring-Boot-Application-Architecture.png)
+
 The EmployeeMS Backend follows a modular and scalable architecture. Here's an overview of key components:
 
 ### Entities
